@@ -1,6 +1,6 @@
 #include <iostream>
 
-//an empty still prints 'hello world'
+//an empty main() that still prints 'hello world'
 
 using namespace std;
 
